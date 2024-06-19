@@ -163,5 +163,7 @@ The assets folder contains images used in the app, including company logos and s
 Navigation
 
 Screen navigation is managed using React Navigation. The LoginScreen transitions to the HomeScreen upon successful login, passing the user's name and email as parameters.
+
+
 ![alt text](<Screenshot 2024-06-19 9.08.55 AM.png>)
 ![alt text](<WhatsApp Image 2024-06-19 at 11.24.49 AM.jpeg>)
